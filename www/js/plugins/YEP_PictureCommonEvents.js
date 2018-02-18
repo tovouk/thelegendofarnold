@@ -2701,7 +2701,7 @@ Game_Picture.prototype.opacity = function() {
       return 0;
     }
   }
-  return Yanfly.PCE.Game_Picture_opacity.call(this);
+  return 70;//Yanfly.PCE.Game_Picture_opacity.call(this);
 };
 
 //=============================================================================
