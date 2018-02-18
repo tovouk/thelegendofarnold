@@ -1,0 +1,5 @@
+Ækashics http://www.akashics.moe/
+Credit Mr. Trivel if using this plugin in your project. party manager plugin
+
+http://sumrndm.site/ SumRndmDde
+https://github.com/lekoder/rpgmaker-optimization rpgmaker optimization
